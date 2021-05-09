@@ -1,2 +1,5 @@
-This is the path of the dataframe genrated in the 'Data_preprocessing_ML' notebook 
+* Path for download dataset : https://www.isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml
+Dataset: The TUH EEG Epilepsy Corpus (TUEP)
+
+* This is the path of the dataframe genrated in the 'Data_preprocessing_ML' notebook 
 path : 'https://drive.google.com/file/d/14qov-L7hvsKlQuA4WO2KxvZPh3lOMDjg/view?usp=sharing'
